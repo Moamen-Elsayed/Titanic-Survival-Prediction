@@ -6,7 +6,7 @@ Titanic carried 16 wooden lifeboats and four collapsibles, which could accommoda
 
 The main question of the competition is “what sorts of people were more likely to survive?”
 
-    Libraries:
+ Libraries:
     <ul>
     <li>
       pandas - offers data structures and operations for manipulating numerical tables and time series.
