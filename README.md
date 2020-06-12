@@ -7,20 +7,20 @@ Titanic carried 16 wooden lifeboats and four collapsibles, which could accommoda
 The main question of the competition is “what sorts of people were more likely to survive?”
 
     Libraries:
+    <ul>
     <li>
-    <ul>
       pandas - offers data structures and operations for manipulating numerical tables and time series.
-    </ul>
-    <ul>
+    </li>
+    <li>
       seaborn - data visualization library based on matplotlib.
-    </ul>
-    <ul>
+    </li>
+    <li>
       matplotlib.pyplot - to create some visualizations.
-    </ul>
-    <ul>
+    </li>
+    <li>
       numpy - The fundamental package for scientific computing with Python.
-    </ul>
-    <ul>
+    </li>
+    <li>
       Scikit-learn - Simple and efficient tools for predictive data analysis.
-    </ul>
-    </li>  
+    </li>
+    </ul>  
