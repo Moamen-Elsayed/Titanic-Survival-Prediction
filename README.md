@@ -5,9 +5,9 @@ Domain information:<br>
 Titanic carried 16 wooden lifeboats and four collapsibles, which could accommodate 1,178 people, only one-third of Titanic's total capacity (and 53% of real number of passengers). At the time, lifeboats were intended to ferry survivors from a sinking ship to a rescuing ship—not keep afloat the whole population or power them to shore. If the SS Californian would responded to Titanic's distress calls, the lifeboats may have been adequate to ferry the passengers to safety as planned, but it didn't happen and the only way to survive were to get on the lifeboat.
 
 The main question of the competition is “what sorts of people were more likely to survive?”
-<li>
-  <ol>
+
     Libraries:
+    <li>
     <ul>
       pandas - offers data structures and operations for manipulating numerical tables and time series.
     </ul>
@@ -20,5 +20,7 @@ The main question of the competition is “what sorts of people were more likely
     <ul>
       numpy - The fundamental package for scientific computing with Python.
     </ul>
-  </ol>
+    <ul>
+      Scikit-learn - Simple and efficient tools for predictive data analysis.
+    </ul>
 </li>  
