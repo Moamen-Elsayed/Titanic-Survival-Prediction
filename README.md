@@ -23,4 +23,4 @@ The main question of the competition is “what sorts of people were more likely
     <ul>
       Scikit-learn - Simple and efficient tools for predictive data analysis.
     </ul>
-</li>  
+    </li>  
